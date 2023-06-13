@@ -1,7 +1,7 @@
 Fluttereir
 ==========
 
-![Fluttereir](bannar.png.jpg)
+![Fluttereir](bannar.png)
 
 Fluttereir is a convenient bash script that automates the installation process of Flutter on any Linux systems. With just one click, you can have Flutter up and running on your machine, ready for developing cross-platform applications.
 Tested on Arch, Ubuntu, Debian.
